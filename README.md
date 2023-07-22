@@ -1,9 +1,9 @@
 # bayescogdat
 
 
-2023 Jozsef Arato
+2023 @ Jozsef Arato
 
-python port: An Introduction to Bayesian Data Analysis for Cognitive Science
+python port of the book: An Introduction to Bayesian Data Analysis for Cognitive Science
 
 book website: https://vasishth.github.io/bayescogsci/book/
 
