@@ -14,4 +14,6 @@ juypter notebook for each chapter, including code and figures from the book
 
 framework for probabilistic programming - model building: pymc library
 
-analysis and visualization of model outputs: arviz library and costum code with numpy,scipy, matplotlib, seaborn
+analysis and visualization of models: arviz library 
+
+other analysis and visualization:  numpy,scipy, matplotlib,seaborn
