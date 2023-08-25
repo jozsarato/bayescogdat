@@ -18,4 +18,4 @@ analysis and visualization of models: arviz library
 other analysis and visualization:  numpy,scipy, matplotlib,seaborn
 
 
-if you find mistakes, feel free to raise an issue, or write me an e-mail: jozsef.arato  at  unvie.ac.at
+if you find mistakes, feel free to raise an issue, or write me an e-mail: jozsef.arato  at  univie.ac.at
