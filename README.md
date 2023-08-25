@@ -11,7 +11,7 @@ book website: https://vasishth.github.io/bayescogsci/book/
 
 juypter notebook for each chapter, including code and figures from the book
 
-framework for probabilistic programming - model building: pymc library
+framework for probabilistic programming - model building: PyMC library
 
 analysis and visualization of models: arviz library 
 
